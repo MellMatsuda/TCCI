@@ -19,6 +19,7 @@ Proposta computacional para priorização de biomarcadores prognósticos e poten
 ## Estrutura do repositório
 
 ```
+README.md
 📁 revisao-escopo/
    ├── artigos-incluidos/        # 29 artigos incluídos na revisão final
    ├── fluxo-prisma.pdf          # Fluxograma PRISMA-ScR do processo de seleção
@@ -28,12 +29,9 @@ Proposta computacional para priorização de biomarcadores prognósticos e poten
    ├── TCCI_MellMatsuda.pdf      # Documento do projeto de pesquisa (TCC I)
    └── figuras/                  # Figuras originais utilizadas no artigo
 
-📁 datasets/                    # Amostras ilustrativas dos datasets
-                                 # (primeiras linhas das matrizes de expressão)
+📁 datasets/...                  # Amostras dos datasets
                                  # Os dados completos devem ser baixados nas fontes
                                  # originais — ver seção Datasets abaixo
-
-README.md
 ```
 
 ---
